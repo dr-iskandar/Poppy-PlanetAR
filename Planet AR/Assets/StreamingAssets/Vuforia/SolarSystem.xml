@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="GerhanaBulan" size="1.000000 0.994936" />
+    <ImageTarget name="GerhanaMatahari" size="1.000000 0.994936" />
+    <ImageTarget name="RevolusiBulan" size="1.000000 0.994936" />
+    <ImageTarget name="RevolusiBumi" size="1.000000 0.994936" />
     <ImageTarget name="Venus" size="1.000000 0.994936" />
     <ImageTarget name="Merkurius" size="1.000000 0.994936" />
     <ImageTarget name="Matahari" size="1.000000 0.994936" />
